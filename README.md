@@ -10,16 +10,17 @@ The datasets consists of several medical predictor variables and one t
  
 
 Variables   Description
-Pregnancies Number of times pregnant
-Glucose Plasma glucose concentration in an oral glucose tolerance test
-BloodPressure   Diastolic blood pressure (mm Hg)
-SkinThickness   Triceps skinfold thickness (mm)
-Insulin Two hour serum insulin
-BMI Body Mass Index
-DiabetesPedigreeFunction    Diabetes pedigree function
-Age Age in years
-Outcome Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
-Project Task: Week 1
+
+Pregnancies :-Number of times pregnant
+Glucose:- Plasma glucose concentration in an oral glucose tolerance test
+BloodPressure:-   Diastolic blood pressure (mm Hg)
+SkinThickness :-  Triceps skinfold thickness (mm)
+Insulin:- Two hour serum insulin
+BMI:- Body Mass Index
+DiabetesPedigreeFunction:-    Diabetes pedigree function
+Age:- Age in years
+Outcome:- Class variable (either 0 or 1). 268 of 768 values are 1, and the others are 0
+
 Data Exploration:
 
 1. Perform descriptive analysis. Understand the variables and their corresponding values. On the columns below, a value of zero does not make sense and thus indicates missing value:
@@ -48,7 +49,7 @@ Data Exploration:
 
  
 
-Project Task: Week 3
+
 Data Modeling:
 
 1. Devise strategies for model building. It is important to decide the right validation framework. Express your thought process.
@@ -57,7 +58,7 @@ Data Modeling:
 
  
 
-Project Task: Week 4
+
 
 Data Modeling:
 
