@@ -1,4 +1,4 @@
-# Teleconsultation-
+# Teleconsultation
 
 Problem Statement
  The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
@@ -80,3 +80,11 @@ e. Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze
 
 
 Pearson's Correlation Coefficient helps you find out the relationship between two quantities. It gives you the measure of the strength of association between two variables. The value of Pearson's Correlation Coefficient can be between -1 to +1. 1 means that they are highly correlated and 0 means no correlation.
+
+
+
+
+%%%% I have made chatbot using Google dialogflow  for covid 19 related FAQ s 
+Check this link....(i have integrated it in Telegram)
+http://t.me/CReatIvE1999bot
+
